@@ -1,0 +1,14 @@
+/Users/jenbucheli/Sites/dotnet/bank-account/classes/bin/Release/net5.0/classes.deps.json
+/Users/jenbucheli/Sites/dotnet/bank-account/classes/bin/Release/net5.0/classes.runtimeconfig.json
+/Users/jenbucheli/Sites/dotnet/bank-account/classes/bin/Release/net5.0/classes.runtimeconfig.dev.json
+/Users/jenbucheli/Sites/dotnet/bank-account/classes/bin/Release/net5.0/classes.dll
+/Users/jenbucheli/Sites/dotnet/bank-account/classes/bin/Release/net5.0/ref/classes.dll
+/Users/jenbucheli/Sites/dotnet/bank-account/classes/bin/Release/net5.0/classes.pdb
+/Users/jenbucheli/Sites/dotnet/bank-account/classes/obj/Release/net5.0/classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jenbucheli/Sites/dotnet/bank-account/classes/obj/Release/net5.0/classes.AssemblyInfoInputs.cache
+/Users/jenbucheli/Sites/dotnet/bank-account/classes/obj/Release/net5.0/classes.AssemblyInfo.cs
+/Users/jenbucheli/Sites/dotnet/bank-account/classes/obj/Release/net5.0/classes.csproj.CoreCompileInputs.cache
+/Users/jenbucheli/Sites/dotnet/bank-account/classes/obj/Release/net5.0/classes.dll
+/Users/jenbucheli/Sites/dotnet/bank-account/classes/obj/Release/net5.0/ref/classes.dll
+/Users/jenbucheli/Sites/dotnet/bank-account/classes/obj/Release/net5.0/classes.pdb
+/Users/jenbucheli/Sites/dotnet/bank-account/classes/obj/Release/net5.0/classes.genruntimeconfig.cache
